@@ -1,0 +1,10 @@
+
+
+/* @tailwind utilities; */
+
+
+body{
+    background-color: rgb(255, 235, 155)
+}
+
+@import "tailwindcss";
